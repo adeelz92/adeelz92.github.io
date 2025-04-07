@@ -11,3 +11,5 @@ I am a PhD candidate at Data Visualization and Modeling (DaVim) Lab at Computer 
 
 News
 ======
+* Our short paper [Topological Separation of Vortices](https://arxiv.org/abs/2407.03384) has been accepted for publication at IEEE Visualization (VIS) 2024.
+* Our paper [Extract and Characterize Hairpin Vortices in Turbulent Flows](https://arxiv.org/abs/2308.06283) has been accepted for presentation at IEEE Visualization (VIS) 2023. To appear in IEEE Transactions on Visualization and Computer Graphics, 2024.
