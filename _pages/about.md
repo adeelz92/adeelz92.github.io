@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Adeel Zafar** is a fourth-year computer science PhD student at the University of Houston advised by [Guoning Chen](https://www2.cs.uh.edu/~chengu/). He is interested in developing scalable frameworks for the extraction, visualization, and analysis of vortices in large-scale turbulent flows. Prior to his PhD, he obtained an MS in software engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where he was awarded the fully funded Shanghai Government Scholarship, and a BS in software engineering from [NUST](https://nust.edu.pk/). He has also worked as a software engineer at Techlogix Inc. in Islamabad, Pakistan, and as an image algorithm engineer at Mengbaby Inc. in Shanghai, China. Adeel is a fitness enthusiast who enjoys weight training and running in his free time.
+**Adeel Zafar** is a fourth-year computer science PhD student at the University of Houston advised by [Guoning Chen](https://www2.cs.uh.edu/~chengu/) and co-advised by [Di Yang](https://yang.me.uh.edu/). He is working on developing scalable frameworks for the extraction, visualization, and analysis of vortices in large-scale turbulent flows. Prior to his PhD, he obtained an MS in software engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where he was awarded the fully funded Shanghai Government Scholarship, and a BS in software engineering from [NUST](https://nust.edu.pk/). He has also worked as a software engineer at Techlogix Inc. in Islamabad, Pakistan, and as an image algorithm engineer at Mengbaby Inc. in Shanghai, China. Adeel is a fitness enthusiast who enjoys weight training and running in his free time.
 
 Research
 ======
