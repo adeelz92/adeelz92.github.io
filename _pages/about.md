@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Adeel Zafar's Portfolio"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Adeel Zafar is a fourth-year Computer Science PhD student at the University of Houston advised by [Guoning Chen](https://www2.cs.uh.edu/~chengu/). He is interested in scientific visualization, topological data analysis, and deep learning, with a focus on developing scalable frameworks for the extraction and analysis of vortices in large-scale turbulent flows. Prior to his PhD, he obtained an MS in Software Engineering from Shanghai Jiao Tong University and a BS in Software Engineering from NUST, and also worked as a software engineer at Techlogix Inc. and as an image algorithm engineer at Mengbaby Inc.
 
 A data-driven personal website
 ======
